@@ -1,0 +1,19 @@
+STUDENT GRADE CALCULATOR - GRADE RULES
+
+A: 90 - 100
+Message: Excellent work! Keep shining!
+
+B: 80 - 89
+Message: Very good! Keep it up!
+
+C: 70 - 79
+Message: Good effort! Keep improving!
+
+D: 60 - 69
+Message: You passed! Keep practicing!
+
+F: 0 - 59
+Message: Don't give up! Learn and try again!
+
+Marks must be between 0 and 100.
+Invalid inputs are handled by the program.
